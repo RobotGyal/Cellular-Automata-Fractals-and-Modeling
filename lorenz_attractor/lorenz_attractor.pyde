@@ -40,4 +40,4 @@ def draw():
     stroke(255)
 
     for v in points:
-        point(x, y, z)
+        point(x,y,z)
